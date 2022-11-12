@@ -4,7 +4,7 @@ import numpy as np
 
 
 # Node class will generate all successors, contains information about the heuristics
-# The third heuristic I chose was Euclidean distance.
+# The third heuristic I chose was the Euclidean distance.
 class Node:
     def __init__(self, puzzle_object, parent=None, move="", counter=0):
         self.puzzle_obj = puzzle_object

@@ -1,6 +1,6 @@
 # Brandon Gatewood
 # CS 441 AI
-# Program 1
+# Program 1: 8 Puzzle Problem
 
 import numpy as np
 from tqdm import tqdm

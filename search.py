@@ -3,7 +3,7 @@ import node
 
 
 # Implements the informed search algorithms, A* search and best-first search. If a search limit is reached, the
-# algorithms will return None, resulting in a failed search. Both search algorithms are implemented with heuristics to
+# algorithms will return None, resulting in a failed search. Both search algorithms are implemented with a heuristic to
 # determine which path to take next.
 
 class SearchAlgorithm:
